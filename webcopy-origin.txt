@@ -1,0 +1,68 @@
+Uri: https://cdn.jsdelivr.net/npm/@mdi/font@7.2.96/css/materialdesignicons.min.css
+File Name: C:\Downloaded Web Sites\ipafilescrofficial.github.io\npm\@mdi\font@7.2.96\css\materialdesignicons.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/@mdi/font@7.2.96/fonts/materialdesignicons-webfont.eot?
+File Name: C:\Downloaded Web Sites\ipafilescrofficial.github.io\npm\@mdi\font@7.2.96\fonts\materialdesignicons-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.jsdelivr.net/npm/@mdi/font@7.2.96/fonts/materialdesignicons-webfont.eot?v=7.2.96
+File Name: C:\Downloaded Web Sites\ipafilescrofficial.github.io\npm\@mdi\font@7.2.96\fonts\materialdesignicons-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.jsdelivr.net/npm/@mdi/font@7.2.96/fonts/materialdesignicons-webfont.ttf?v=7.2.96
+File Name: C:\Downloaded Web Sites\ipafilescrofficial.github.io\npm\@mdi\font@7.2.96\fonts\materialdesignicons-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/@mdi/font@7.2.96/fonts/materialdesignicons-webfont.woff2?v=7.2.96
+File Name: C:\Downloaded Web Sites\ipafilescrofficial.github.io\npm\@mdi\font@7.2.96\fonts\materialdesignicons-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@mdi/font@7.2.96/fonts/materialdesignicons-webfont.woff?v=7.2.96
+File Name: C:\Downloaded Web Sites\ipafilescrofficial.github.io\npm\@mdi\font@7.2.96\fonts\materialdesignicons-webfont.woff
+Content Type: font/woff
+
+Uri: https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap
+File Name: C:\Downloaded Web Sites\ipafilescrofficial.github.io\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\ipafilescrofficial.github.io\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/oswald/v56/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUE.ttf
+File Name: C:\Downloaded Web Sites\ipafilescrofficial.github.io\s\oswald\v56\TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v21/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj42Vksj.ttf
+File Name: C:\Downloaded Web Sites\ipafilescrofficial.github.io\s\spacegrotesk\v21\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj42Vksj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v21/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj4PVksj.ttf
+File Name: C:\Downloaded Web Sites\ipafilescrofficial.github.io\s\spacegrotesk\v21\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj4PVksj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v21/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj62UUsj.ttf
+File Name: C:\Downloaded Web Sites\ipafilescrofficial.github.io\s\spacegrotesk\v21\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj62UUsj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v21/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7aUUsj.ttf
+File Name: C:\Downloaded Web Sites\ipafilescrofficial.github.io\s\spacegrotesk\v21\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7aUUsj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v21/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUUsj.ttf
+File Name: C:\Downloaded Web Sites\ipafilescrofficial.github.io\s\spacegrotesk\v21\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUUsj.ttf
+Content Type: font/ttf
+
+Uri: https://ipafilescrofficial.github.io/
+File Name: C:\Downloaded Web Sites\ipafilescrofficial.github.io\index.htm
+Content Type: text/html
+
+Uri: https://ipafilescrofficial.github.io/script.js
+File Name: C:\Downloaded Web Sites\ipafilescrofficial.github.io\script.js
+Content Type: application/javascript
+
+Uri: https://ipafilescrofficial.github.io/style.css
+File Name: C:\Downloaded Web Sites\ipafilescrofficial.github.io\style.css
+Content Type: text/css
+
